@@ -1,6 +1,0 @@
-;General Configuration
-
-Const SCREEN_WIDTH  = 480
-Const SCREEN_HEIGHT = 272
-Const WINDOW_MODE   = WINDOWED
-Const BIT_DEPTH     = TRUECOLOR
