@@ -19,7 +19,7 @@ Type tInfo
 End Type
 
 Type tGame
-	Field Scene.tScene
+	Field SceneMgr.tSceneMgr
 End Type
 
 ;Functions
